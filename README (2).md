@@ -16,7 +16,7 @@
 	* Ho adattato il template in base ai contenuti che volevo inserire nelle varie pagine;
 
 ## Le pagine:
-### index.html
+* ### index.html
 Homepage del mio portfolio.
 ### io.html
 Sezione in cui parlo della mia vita.
