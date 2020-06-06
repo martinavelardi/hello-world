@@ -16,13 +16,17 @@
 	* Ho adattato il template in base ai contenuti che volevo inserire nelle varie pagine;
 
 ## Le pagine:
+* ### style.css
+		File .css del template.
+* ### scripts.js
+		File .js del template.
 * ### index.html
 		Homepage del mio portfolio.
 * ### io.html
 		Sezione in cui parlo della mia vita.
 * ### cheerleading.html
 		Sezione in cui parlo dello sport che pratico.
-		È l'unica sezione con un background diverso (impostato da style.css dopo aver duplicato quello utilizzato nelle altre pagine).
+		È l'unica sezione con un'immagine di sfondo diversa (impostata da style.css dopo aver duplicato le proprietà utilizzate per quelle delle altre pagine).
 * ### scuola.html
 		Sezione in cui parlo delle diverse scuole che ho frequentato fino ad ora.
 * ### interessi.html
