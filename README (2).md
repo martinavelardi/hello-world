@@ -1,5 +1,5 @@
 # PORTFOLIO PERSONALE
-2° portfolio personale dell'anno scolastico 2019/2020 realizzato con l'utilizzo di Bootstrap
+2° portfolio personale dell'anno scolastico 2019/2020 realizzato con l'utilizzo di Bootstrap.
 
 ## Come l'ho realizzato:
 1. Ho scaricato il template da https://startbootstrap.com/themes/grayscale/ 
@@ -9,11 +9,12 @@
 	* Modificato l'icona del sito con l'iniziale del mio nome (.png);
 	* Ricreato il menù con le sezioni "home", "la mia vita", "cheerleading", "scuola", "interessi";
 	* Eliminato il pulsante "get started" in tutte le pagine;
+	* In "scuola.html" e "interessi.html" ho aggiunto un dropdown menù;
 	* In alcune pagine ho aggiunto delle icone prese da https://www.w3schools.com/icons/icons_reference.asp
-4. Per quanto riguarda i contenuti:
+4. Ho aggiunto i contenuti:
 	* Ho ripreso quelli del primo portfolio (realizzato con l'utilizzo di HTML e CSS);
 	* Li ho corretti dal punto di vista grammaticale e modificati;
-	* Ho adattato il template in base ai contenuti che volevo inserire nelle varie pagine;
+	* Ho adattato il template in base ai contenuti che volevo inserire nelle varie pagine; 
 
 ## Le pagine:
 * ### style.css
