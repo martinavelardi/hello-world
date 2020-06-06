@@ -18,11 +18,11 @@
 ## Le pagine:
 * ### index.html
 		Homepage del mio portfolio.
-### io.html
-Sezione in cui parlo della mia vita.
-### cheerleading.html
-Sezione in cui parlo dello sport che pratico.
-### scuola.html
-Sezione in cui parlo delle diverse scuole che ho frequentato fino ad ora.
-### interessi.html
-Sezione in cui parlo delle mie passioni.
+* ### io.html
+		Sezione in cui parlo della mia vita.
+* ### cheerleading.html
+		Sezione in cui parlo dello sport che pratico.
+* ### scuola.html
+		Sezione in cui parlo delle diverse scuole che ho frequentato fino ad ora.
+* ### interessi.html
+		Sezione in cui parlo delle mie passioni.
