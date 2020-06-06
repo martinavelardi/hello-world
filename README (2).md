@@ -15,7 +15,7 @@
 	* Li ho corretti e modificati;
 	* Li ho adattati al template;
 	
-#### index.html
+### index.html
 Homepage del mio portfolio.
 ### io.html
 Sezione in cui parlo della mia vita.
