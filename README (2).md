@@ -17,7 +17,7 @@
 
 ## Le pagine:
 * ### index.html
-	Homepage del mio portfolio.
+		Homepage del mio portfolio.
 ### io.html
 Sezione in cui parlo della mia vita.
 ### cheerleading.html
