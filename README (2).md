@@ -2,19 +2,20 @@
 2° portfolio personale dell'anno scolastico 2019/2020 realizzato con l'utilizzo di Bootstrap
 
 ## Come l'ho realizzato:
-1. Ho scaricato il template dal sito https://startbootstrap.com/themes/grayscale/ 
+1. Ho scaricato il template da https://startbootstrap.com/themes/grayscale/ 
 2. L'ho copiato in tutte le pagine ("index.html", "io.html", "cheerleading.html", "scuola.html", "interessi.html")
 3. Ho apportato le seguenti modifiche:
 	* Eliminato tutte le foto già preimpostate;
 	* Modificato l'icona del sito con l'iniziale del mio nome (.png);
 	* Ricreato il menù con le sezioni "home", "la mia vita", "cheerleading", "scuola", "interessi";
 	* Eliminato il pulsante "get started" in tutte le pagine;
-	* In alcune pagine ho aggiunto delle icone prese dal sito https://www.w3schools.com/icons/icons_reference.asp
+	* In alcune pagine ho aggiunto delle icone prese da https://www.w3schools.com/icons/icons_reference.asp
 4. Per quanto riguarda i contenuti:
-	* Ho ripreso quelli del primo portfolio, realizzato con l'utilizzo di HTML e CSS;
-	* Li ho corretti e modificati;
-	* Li ho adattati al template;
-	
+	* Ho ripreso quelli del primo portfolio (realizzato con l'utilizzo di HTML e CSS);
+	* Li ho corretti dal punto di vista grammaticale e modificati;
+	* Ho adattato il template in base ai contenuti che volevo inserire nelle varie pagine;
+
+## Le pagine:
 ### index.html
 Homepage del mio portfolio.
 ### io.html
