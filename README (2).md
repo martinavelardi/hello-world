@@ -3,7 +3,7 @@
 
 ## Come l'ho realizzato:
 1. Ho scaricato il template da https://startbootstrap.com/themes/grayscale/ 
-2. L'ho copiato in tutte le pagine ("index.html", "io.html", "cheerleading.html", "scuola.html", "interessi.html")
+2. L'ho copiato in tutte le pagine ("index.html", "io.html", "cheerleading.html", "scuola.html", "interessi.html").
 3. Ho apportato le seguenti modifiche:
 	* Eliminato tutte le foto già preimpostate;
 	* Modificato l'icona del sito con l'iniziale del mio nome (.png);
@@ -22,6 +22,7 @@
 		Sezione in cui parlo della mia vita.
 * ### cheerleading.html
 		Sezione in cui parlo dello sport che pratico.
+		È l'unica sezione con un background diverso (impostato da style.css dopo aver duplicato quello utilizzato nelle altre pagine).
 * ### scuola.html
 		Sezione in cui parlo delle diverse scuole che ho frequentato fino ad ora.
 * ### interessi.html
